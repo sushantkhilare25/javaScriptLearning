@@ -8,12 +8,6 @@ girl2 = temp;
 console.log(girl1,girl2);
 
 
-
-
-
-
-
-
 console.log("======================================");
 var num1 = 100;
 var num2 = 200;
