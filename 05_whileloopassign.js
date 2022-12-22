@@ -47,21 +47,21 @@ while (i>=10) {
     i= i-10;
 }
 
-console.log(`Using do while loop`);
-var index = 5;
-do {
-    console.log(index);
-    index = index + 5;
-} while (index<=50);
-console.log(``);
-var index = 10;
-do {
-    console.log(index);
-    index = index + 10;
-} while (index<=100);
-console.log(``);
-var index = 100;
-do {
-    console.log(index);
-    index = index - 10;
-} while (index>=10);
+// console.log(`Using do while loop`);
+// var index = 5;
+// do {
+//     console.log(index);
+//     index = index + 5;
+// } while (index<=50);
+// console.log(``);
+// var index = 10;
+// do {
+//     console.log(index);
+//     index = index + 10;
+// } while (index<=100);
+// console.log(``);
+// var index = 100;
+// do {
+//     console.log(index);
+//     index = index - 10;
+// } while (index>=10);
